@@ -19,8 +19,20 @@ var timeList = [
     "5 PM"
 ];
 
+var idTime = [
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17"
+];
+
 for (var i = 0; i < timeList.length; i++) {
-    var newRow = $("<div class='row time-block'>").attr("id", timeList[i]);
+    var newRow = $("<div class='row time-block'>").attr("id", idTime[i]);
     var newDiv2 = $("<div class='hour col-1'>")
     var newDiv = $("<textarea class='col-10'>");
     var newButt = $("<button type='button' class='saveBtn col-1 far fa-save'>");
