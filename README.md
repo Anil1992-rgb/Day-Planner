@@ -1,5 +1,5 @@
-DAY PLANNER:
-
+-DAY PLANNER-
+=
 Work day scheduler that uses moment.js to display the current month, day and year. 
 There is only one page for this app and it displays the hours from 9am - 5pm and
 color coded each row of hours to individualize past, current, and future times.
@@ -10,14 +10,13 @@ close and re open your browser.
 Link to the deployed site =>  https://anil1992-rgb.github.io/homework5
 
 
-USAGE:
-
+USAGE
+=
 Use your mouse to navigate around the page and click and type to interact with the buttons and input fields.
 
 
-CREDITS:
-
-
+CREDITS
+=
 *Google 
 *w3schools.com
 *github.com
