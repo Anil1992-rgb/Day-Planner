@@ -7,7 +7,7 @@ Type your schedule in the text area given in each row of hour and click the save
 on the right of it to save it not only when you are currently on the page but also if you refresh or 
 close and re open your browser.
 
-Link to the deployed site =>  https://anil1992-rgb.github.io/homework5
+Link to the deployed site =>  https://anil1992-rgb.github.io/Day-Planner
 
 
 USAGE
